@@ -1,0 +1,22 @@
+.rollDice {
+  width:200px;
+  height: 50px;
+  margin: 0 auto;
+  display: block;
+
+  background-color: seagreen;
+  color:white;
+
+  font-size: 20px;
+  outline: none;
+  border: 0px;
+}
+
+.App {
+  width: 100%;
+}
+
+.dices {
+  display:flex;
+  justify-content: center
+}
